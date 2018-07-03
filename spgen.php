@@ -1,4 +1,5 @@
 <?php  
+/* File for collecting the user input data and put it up into a signed PDf */
 
 require_once('tcpdf/tcpdf.php');
 
